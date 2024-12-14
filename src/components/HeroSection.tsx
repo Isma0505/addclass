@@ -12,8 +12,7 @@ export default function HeroSection() {
             </h1>
             <h2 className="text-5xl  font-medium leading-none sm:text-5xl uppercase text-[var(--primary-color)]">Welcome to Website!</h2>
             <p className="!mt-3 mb-8 text-xl sm:mb-12 uppercase font-medium md:max-w-2xl">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore
-              soluta.
+            On this website, I will discuss the Chinese otome game Zhang Men Tai Mang or also called the busy master game. ZMTM is a game inspired by traditional Chinese life in ancient times.
             </p>
             <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-10 lg:justify-start">
               <Button link="/">Hire Me</Button>

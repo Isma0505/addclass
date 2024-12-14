@@ -13,4 +13,6 @@ html {
 body{
   font-family: "Teko", sans-serif;
 }
-
+image {
+  border: solid 2px #0000;
+}
