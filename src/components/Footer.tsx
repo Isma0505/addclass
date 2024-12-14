@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
 
         <p className="mx-auto mt-6 max-w-md text-center text-xl uppercase font-medium md:max-w-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae laboriosam labore delectus, debitis ipsum facilis voluptatem eius officia ratione et.
+        This website is just a copy, not the official website. If there are many mistakes on this website, please forgive me.
         </p>
 
         <ul className="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12 text-xl">
