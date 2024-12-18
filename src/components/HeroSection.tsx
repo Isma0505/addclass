@@ -15,7 +15,7 @@ export default function HeroSection() {
             On this website, I will discuss the Chinese otome game Zhang Men Tai Mang or also called the busy master game. ZMTM is a game inspired by traditional Chinese life in ancient times.
             </p>
             <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-10 lg:justify-start">
-              <Button link="/">Hire Me</Button>
+              <Button link="/">My Profil</Button>
               <ButtonBorder link="/">{`Let's talk`}</ButtonBorder>
             </div>
           </div>
